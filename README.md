@@ -17,7 +17,7 @@ Video of the unit in peration being fed with 26 VDC and a veriable voltage AC su
 
 Photos of the inside of the inverter.
 
-[pictures](./images)
+[pictures](./images/README.md)
 
 ![overview](./images/overview.png)
 
